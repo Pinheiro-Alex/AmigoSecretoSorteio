@@ -20,4 +20,4 @@ Um simples sorteador de **Amigo Secreto** feito com **HTML, CSS e JavaScript**. 
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/seu-usuario/AmigoSecretoSoteio.git
