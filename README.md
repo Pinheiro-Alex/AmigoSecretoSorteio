@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-Um simples sorteador de **Amigo Secreto** feito com **HTML, CSS e JavaScript**. Permite adicionar nomes e sortear aleatoriamente um participante. O nome sorteado é exibido em **negrito e com o dobro do tamanho da fonte**.
+Um simples sorteador de **Amigo Secreto** feito com **HTML, CSS e JavaScript**. Permite adicionar nomes e sortear aleatoriamente um participante.
 
 ## 📌 Funcionalidades
 
