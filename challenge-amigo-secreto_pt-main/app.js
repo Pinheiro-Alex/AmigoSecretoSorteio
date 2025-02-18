@@ -1,12 +1,10 @@
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
-
 // Lista para armazenar os amigos adicionados
 let listaAmigos = [];
 
 // Função para adicionar um amigo à lista
 function adicionarAmigo() {
     let inputAmigo = document.getElementById("amigo"); // Obtém o valor do input
-    let nome = inputAmigo.value.trim(); // Remove espaços extras no início e no fim
+    let nome = inputAmigo.value.trim(); 
 
     // Verifica se o nome está vazio
     if (nome === "") {
@@ -33,7 +31,7 @@ function adicionarAmigo() {
 // Função para atualizar a lista exibida na tela
 function atualizarListaAmigos() {
     let ul = document.getElementById("listaAmigos");
-    ul.innerHTML = ""; // Limpa a lista antes de atualizar
+    ul.innerHTML = ""; 
 
     // Adiciona cada amigo como um item da lista
     listaAmigos.forEach((amigo) => {
